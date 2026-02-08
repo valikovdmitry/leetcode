@@ -22,4 +22,4 @@ I track all solved problems using a spaced repetition table:
 - confidence level
 
 👉 **Spaced Repetition Table (Notion):**  
-[Open Notion Dashboard][(https://www.notion.so/2b95a0eb51d8802398caf81d22404107?v=2b95a0eb51d881d99391000cdd72696c)]
+[Open Notion Dashboard](https://www.notion.so/2b95a0eb51d8802398caf81d22404107?v=2b95a0eb51d881d99391000cdd72696c)
