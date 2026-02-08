@@ -9,3 +9,4 @@ My primary learning system lives in Notion and acts as a structured database:
 - final reference implementations
 
 👉 View the Notion dashboard: [Notion Link](https://www.notion.so/2b95a0eb51d8802398caf81d22404107?v=2b95a0eb51d881d99391000cdd72696c)
+(screenshots/notion-dashboard.png)
